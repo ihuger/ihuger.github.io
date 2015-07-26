@@ -1,0 +1,3 @@
+jekyll server
+rake post title="title"
+rake page name="about.md"
